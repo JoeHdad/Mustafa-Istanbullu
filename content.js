@@ -49,7 +49,7 @@ const I18N = {
     waFloatLabel: "WhatsApp'tan yazın",
     waFloatMsg: "Merhaba, randevu hakkında bilgi almak istiyorum.",
     locTitle: "Konum", directions: "Yol tarifi al",
-    altDiploma: "Mustafa İSTANBULLU, Osteopathic College of Ontario diploması ile",
+    altPortrait: "Uzm. Fizyoterapist Mustafa İSTANBULLU, beyaz önlükle",
     altCeremony: "Osteopathic College of Ontario diploma töreni",
     altSpine: "Mustafa İSTANBULLU omurga modeli ile",
     expertise: [
@@ -124,7 +124,7 @@ const I18N = {
     waFloatLabel: "Message on WhatsApp",
     waFloatMsg: "Hello, I would like some information about booking an appointment.",
     locTitle: "Location", directions: "Get directions",
-    altDiploma: "Mustafa İSTANBULLU holding his Osteopathic College of Ontario diploma",
+    altPortrait: "Specialist Physiotherapist Mustafa İSTANBULLU in a white coat",
     altCeremony: "Osteopathic College of Ontario diploma ceremony",
     altSpine: "Mustafa İSTANBULLU with a spine model",
     expertise: [
@@ -199,7 +199,7 @@ const I18N = {
     waFloatLabel: "راسلنا على واتساب",
     waFloatMsg: "مرحباً، أرغب بالاستفسار عن حجز موعد.",
     locTitle: "الموقع", directions: "الاتجاهات على الخريطة",
-    altDiploma: "مصطفى إسطنبولو يحمل دبلوم كلية الاستيوباثي في أونتاريو",
+    altPortrait: "أخصائي العلاج الطبيعي مصطفى إسطنبولو بالمعطف الأبيض",
     altCeremony: "حفل تسليم دبلوم كلية الاستيوباثي في أونتاريو",
     altSpine: "مصطفى إسطنبولو مع مجسّم العمود الفقري",
     expertise: [
